@@ -1,4 +1,4 @@
-# Project Name
+# Bike Sharing Regression Model
 > Using Multiple Linear Regression, fitting a model to interpret the demand of bikes for a bike sharing system client
 
 
